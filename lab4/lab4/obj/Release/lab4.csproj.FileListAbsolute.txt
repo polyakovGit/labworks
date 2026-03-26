@@ -1,0 +1,10 @@
+C:\Users\i.polyakov\Desktop\C#\lab4\lab4\bin\Release\lab4.exe.config
+C:\Users\i.polyakov\Desktop\C#\lab4\lab4\bin\Release\lab4.exe
+C:\Users\i.polyakov\Desktop\C#\lab4\lab4\bin\Release\lab4.pdb
+C:\Users\i.polyakov\Desktop\C#\lab4\lab4\obj\Release\lab4.csproj.AssemblyReference.cache
+C:\Users\i.polyakov\Desktop\C#\lab4\lab4\obj\Release\lab4.Form1.resources
+C:\Users\i.polyakov\Desktop\C#\lab4\lab4\obj\Release\lab4.Properties.Resources.resources
+C:\Users\i.polyakov\Desktop\C#\lab4\lab4\obj\Release\lab4.csproj.GenerateResource.cache
+C:\Users\i.polyakov\Desktop\C#\lab4\lab4\obj\Release\lab4.csproj.CoreCompileInputs.cache
+C:\Users\i.polyakov\Desktop\C#\lab4\lab4\obj\Release\lab4.exe
+C:\Users\i.polyakov\Desktop\C#\lab4\lab4\obj\Release\lab4.pdb

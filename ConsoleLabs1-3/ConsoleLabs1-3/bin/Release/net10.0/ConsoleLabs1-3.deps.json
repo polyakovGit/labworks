@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ConsoleLabs1-3/1.0.0": {
+        "runtime": {
+          "ConsoleLabs1-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleLabs1-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
